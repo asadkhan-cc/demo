@@ -1,0 +1,7 @@
+The <body> tag has following attributes which can be used to set different colors:
+• bgcolor - sets a color for the background of the page.
+• text - sets a color for the body text.
+• alink - sets a color for active links or selected links.
+• link - sets a color for linked text.
+• vlink - sets a color for visited links - that is, for linked text that you have
+already clicked on.

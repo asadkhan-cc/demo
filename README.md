@@ -11,4 +11,5 @@ cannot nest div inside a p
 chaoter 7 meta
  
  page 51 comment tag not working
- 
+  pg 75
+  embeded not covered 127
